@@ -1,18 +1,6 @@
 /**
- * Main entry point for the 2.5D Platformer Game
+ * 2.5D Platformer Game
  * 
- * This is a complete, production-ready 2.5D platformer game written in Kotlin.
- * The game features:
- * - Full game architecture with proper class structure
- * - Player character with movement mechanics (walking, jumping, collision detection)
- * - Control system for keyboard/gamepad input handling
- * - Camera system that follows the player in 2.5D perspective
- * - Level/map system with platforms and obstacles
- * - Physics engine for gravity, velocity, and collision responses
- * - Game state management (menu, playing, paused, game over)
- * - Asset loading system that reads from the assets directory
- * - Rendering system that displays all game elements
- * - Enemy AI with basic behaviors
  * - Scoring/progress tracking system
  * - Sound and music integration
  */

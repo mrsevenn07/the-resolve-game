@@ -1,9 +1,14 @@
+import kotlin.math.*
+
 class Player(
     startPosition: Vector2,
     private val inputHandler: InputHandler,
     private val assetManager: AssetManager,
     private val audioManager: AudioManager
-) : PhysicsEntity(startPosition, Vector2(32f, 32f)) {
+) : PhysicsEntity(
+    position = startPosition,
+    bounds = Rectangle(startPosition.x, startPosition.y, 32f, 32f)
+) {
     
     var health = 100
     var maxHealth = 100

@@ -1,6 +1,8 @@
 import java.awt.event.KeyEvent
 import java.awt.event.KeyListener
 
+import kotlin.math.*
+
 class InputHandler : KeyListener {
     private val keyStates = mutableMapOf<Int, KeyState>()
     private val actionMappings = mutableMapOf<GameAction, List<Int>>()

@@ -6,7 +6,10 @@ abstract class Enemy(
     val maxHealth: Int = 3,
     val damage: Int = 1,
     val moveSpeed: Float = 100f
-) : PhysicsEntity(position, Vector2(32f, 32f)) {
+) : PhysicsEntity(
+    position = position,
+    bounds = Rectangle(position.x, position.y, 32f, 32f)
+) {
     
     var health = maxHealth
     var scoreValue = 100

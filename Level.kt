@@ -1,3 +1,5 @@
+import kotlin.math.*
+
 class Level(
     val id: String,
     val name: String,

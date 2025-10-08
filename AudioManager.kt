@@ -1,3 +1,5 @@
+import kotlin.math.*
+
 class AudioManager {
     private val soundEffects = mutableMapOf<String, SoundEffect>()
     private val musicTracks = mutableMapOf<String, MusicTrack>()

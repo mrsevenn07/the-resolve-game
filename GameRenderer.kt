@@ -1,3 +1,5 @@
+import kotlin.math.*
+
 class GameRenderer {
     private var graphics: Graphics? = null
     private val renderLayers = mutableListOf<RenderLayer>()

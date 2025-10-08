@@ -1,3 +1,5 @@
+import kotlin.math.*
+
 class GameStateManager {
     private var currentState = GameState.MENU
     private var previousState = GameState.MENU

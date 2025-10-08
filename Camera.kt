@@ -1,3 +1,5 @@
+import kotlin.math.*
+
 class Camera(
     var position: Vector2 = Vector2.ZERO,
     var zoom: Float = 1f,
